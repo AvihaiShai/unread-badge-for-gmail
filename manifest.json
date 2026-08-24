@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "Unread Badge for Gmail™",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Shows unread Gmail counts in the toolbar and opens Gmail in one click. Uses your existing Gmail session; no analytics or tracking.",
   "author": "Avihai Yaakov Shai",
   "homepage_url": "https://github.com/AvihaiShai",

@@ -1,4 +1,4 @@
-# AMO listing copy — Unread Badge for Gmail™ 1.0.0
+# AMO listing copy — Unread Badge for Gmail™ 1.0.1
 
 Paste-ready text for the AMO submission form. Wording here must match
 `PRIVACY.md` and `README.md`; if one changes, change all three.

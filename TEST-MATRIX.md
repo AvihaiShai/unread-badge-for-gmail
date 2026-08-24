@@ -1,4 +1,4 @@
-# Test matrix — Unread Badge for Gmail™ 1.0.0
+# Test matrix — Unread Badge for Gmail™ 1.0.1
 
 Two kinds of evidence, kept separate. Automated results are reproducible on
 any machine; manual results are claims about what a person observed and are

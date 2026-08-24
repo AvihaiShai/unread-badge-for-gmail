@@ -1,4 +1,4 @@
-# Publishing notes — Unread Badge for Gmail™ 1.0.0
+# Publishing notes — Unread Badge for Gmail™ 1.0.1
 
 Internal document. Not shipped in the release ZIP.
 

@@ -1,6 +1,6 @@
 # Privacy Policy — Unread Badge for Gmail™
 
-Last updated: 2026-08-23. Applies to version 1.0.0.
+Last updated: 2026-08-24. Applies to version 1.0.1.
 
 ## Summary
 
